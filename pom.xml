@@ -110,7 +110,7 @@
     </dependencies>
 
     <build>
-        <finalName>jusic-serve</finalName>
+        <finalName>jusic-serve-houses</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
